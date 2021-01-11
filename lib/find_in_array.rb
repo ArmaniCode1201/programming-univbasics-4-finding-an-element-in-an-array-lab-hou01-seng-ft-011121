@@ -10,8 +10,4 @@ def find_element_index(array, value_to_find)
   end
   found_value_index
 end
-
-  scale.index(2)
-  scale.index(4)
-end
 #binding.pry
